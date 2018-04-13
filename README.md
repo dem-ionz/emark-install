@@ -1,6 +1,6 @@
-# emark-install
+# emark-install on Ubuntu 16.04 Xenial
 
-https://deutsche-emark.de/
+# https://deutsche-emark.de/
 
 build emark wallet with QT5 - non-headless
 installs everything for you, and builds from the ground up.
