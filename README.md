@@ -1,4 +1,11 @@
-# emark-install on Ubuntu 16.04 Xenial
+# Distributor ID:	Ubuntu
+# Description:	Ubuntu 16.04.4 LTS
+# Release:	16.04
+# Codename:	xenial
+# nullsoul@void[21:47:35]
+# ~
+# :$
+# Ubuntu quick install, because whaitehfucknot?
 
 # https://deutsche-emark.de/
 
